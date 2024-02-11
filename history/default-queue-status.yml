@@ -1,7 +1,7 @@
 url: https://api.mindjoy.com/health/sidekiq/default/status
 status: up
 code: 200
-responseTime: 172
-lastUpdated: 2024-02-10T23:04:05.525Z
+responseTime: 178
+lastUpdated: 2024-02-11T23:04:13.146Z
 startTime: 2024-02-08T09:59:06.872Z
 generator: Upptime <https://github.com/upptime/upptime>
