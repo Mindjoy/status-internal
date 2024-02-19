@@ -1,7 +1,7 @@
 url: https://api.mindjoy.com/health/sidekiq/critical/latency
 status: up
 code: 200
-responseTime: 161
-lastUpdated: 2024-02-18T23:05:58.504Z
+responseTime: 308
+lastUpdated: 2024-02-19T23:03:37.522Z
 startTime: 2024-02-08T09:59:06.324Z
 generator: Upptime <https://github.com/upptime/upptime>
