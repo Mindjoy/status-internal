@@ -1,7 +1,7 @@
-url: https://test.mindjoytest.com/
+url: $TEST_URL
 status: up
 code: 200
-responseTime: 406
-lastUpdated: 2024-02-22T23:04:32.538Z
+responseTime: 322
+lastUpdated: 2024-02-23T09:08:36.181Z
 startTime: 2024-02-08T09:59:04.110Z
 generator: Upptime <https://github.com/upptime/upptime>
