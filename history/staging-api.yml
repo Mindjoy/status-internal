@@ -1,7 +1,7 @@
-url: https://api.mindjoytest.com/up
+url: $TEST_API_URL/up
 status: up
 code: 200
-responseTime: 297
-lastUpdated: 2024-02-22T23:04:33.138Z
+responseTime: 337
+lastUpdated: 2024-02-23T09:08:36.820Z
 startTime: 2024-02-08T09:59:04.898Z
 generator: Upptime <https://github.com/upptime/upptime>
