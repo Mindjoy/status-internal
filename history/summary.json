@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 327,
-    "timeDay": 384,
-    "timeWeek": 317,
-    "timeMonth": 320,
-    "timeYear": 327,
+    "time": 328,
+    "timeDay": 349,
+    "timeWeek": 330,
+    "timeMonth": 316,
+    "timeYear": 328,
     "dailyMinutesDown": {}
   },
   {
@@ -24,15 +24,15 @@
     "slug": "staging-api",
     "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "99.60%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.86%",
-    "time": 559,
-    "timeDay": 226,
-    "timeWeek": 229,
-    "timeMonth": 689,
-    "timeYear": 559,
+    "time": 555,
+    "timeDay": 360,
+    "timeWeek": 247,
+    "timeMonth": 693,
+    "timeYear": 555,
     "dailyMinutesDown": {
       "2024-03-17": 6,
       "2024-03-16": 12,
@@ -52,11 +52,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 367,
-    "timeDay": 259,
-    "timeWeek": 342,
-    "timeMonth": 384,
-    "timeYear": 367,
+    "time": 366,
+    "timeDay": 287,
+    "timeWeek": 344,
+    "timeMonth": 385,
+    "timeYear": 366,
     "dailyMinutesDown": {
       "2024-02-12": 7
     }
@@ -72,11 +72,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 218,
-    "timeDay": 146,
-    "timeWeek": 291,
-    "timeMonth": 234,
-    "timeYear": 218,
+    "time": 221,
+    "timeDay": 346,
+    "timeWeek": 316,
+    "timeMonth": 240,
+    "timeYear": 221,
     "dailyMinutesDown": {
       "2024-02-12": 7
     }
@@ -93,9 +93,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 200,
-    "timeDay": 142,
-    "timeWeek": 163,
-    "timeMonth": 198,
+    "timeDay": 235,
+    "timeWeek": 169,
+    "timeMonth": 200,
     "timeYear": 200,
     "dailyMinutesDown": {
       "2024-02-12": 7
@@ -112,11 +112,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 209,
-    "timeDay": 149,
-    "timeWeek": 203,
-    "timeMonth": 205,
-    "timeYear": 209,
+    "time": 212,
+    "timeDay": 358,
+    "timeWeek": 224,
+    "timeMonth": 212,
+    "timeYear": 212,
     "dailyMinutesDown": {
       "2024-02-12": 7
     }
