@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 329,
-    "timeDay": 393,
-    "timeWeek": 318,
-    "timeMonth": 320,
+    "timeDay": 333,
+    "timeWeek": 325,
+    "timeMonth": 321,
     "timeYear": 329,
     "dailyMinutesDown": {}
   },
@@ -23,16 +23,16 @@
     "icon": "https://raw.githubusercontent.com/Mindjoy/status/master/assets/rails-favicon.png",
     "slug": "staging-api",
     "status": "up",
-    "uptime": "99.84%",
+    "uptime": "99.85%",
     "uptimeDay": "99.61%",
     "uptimeWeek": "99.70%",
     "uptimeMonth": "99.93%",
-    "uptimeYear": "99.84%",
-    "time": 533,
-    "timeDay": 257,
-    "timeWeek": 246,
-    "timeMonth": 249,
-    "timeYear": 533,
+    "uptimeYear": "99.85%",
+    "time": 529,
+    "timeDay": 254,
+    "timeWeek": 249,
+    "timeMonth": 251,
+    "timeYear": 529,
     "dailyMinutesDown": {
       "2024-03-20": 6,
       "2024-03-19": 7,
@@ -54,11 +54,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 363,
-    "timeDay": 235,
-    "timeWeek": 323,
+    "time": 362,
+    "timeDay": 318,
+    "timeWeek": 298,
     "timeMonth": 384,
-    "timeYear": 363,
+    "timeYear": 362,
     "dailyMinutesDown": {
       "2024-02-12": 7
     }
@@ -74,11 +74,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 219,
-    "timeDay": 154,
-    "timeWeek": 289,
-    "timeMonth": 235,
-    "timeYear": 219,
+    "time": 217,
+    "timeDay": 138,
+    "timeWeek": 283,
+    "timeMonth": 220,
+    "timeYear": 217,
     "dailyMinutesDown": {
       "2024-02-12": 7
     }
@@ -94,11 +94,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 199,
-    "timeDay": 150,
-    "timeWeek": 170,
-    "timeMonth": 200,
-    "timeYear": 199,
+    "time": 198,
+    "timeDay": 144,
+    "timeWeek": 168,
+    "timeMonth": 198,
+    "timeYear": 198,
     "dailyMinutesDown": {
       "2024-02-12": 7
     }
@@ -114,11 +114,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 210,
-    "timeDay": 144,
-    "timeWeek": 224,
-    "timeMonth": 212,
-    "timeYear": 210,
+    "time": 209,
+    "timeDay": 166,
+    "timeWeek": 221,
+    "timeMonth": 209,
+    "timeYear": 209,
     "dailyMinutesDown": {
       "2024-02-12": 7
     }
