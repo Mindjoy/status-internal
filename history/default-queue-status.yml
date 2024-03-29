@@ -1,7 +1,7 @@
 url: $WORKER_HEALTH_URL/default/status
 status: up
 code: 200
-responseTime: 149
-lastUpdated: 2024-03-28T23:03:56.557Z
+responseTime: 163
+lastUpdated: 2024-03-29T23:03:52.791Z
 startTime: 2024-02-08T09:59:06.872Z
 generator: Upptime <https://github.com/upptime/upptime>
