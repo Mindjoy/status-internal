@@ -24,7 +24,7 @@
     "url": "$TEST_API_URL/up",
     "icon": "https://raw.githubusercontent.com/Mindjoy/status/master/assets/rails-favicon.png",
     "slug": "staging-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.67%",
     "uptimeDay": "96.19%",
     "uptimeWeek": "98.51%",
