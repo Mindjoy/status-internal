@@ -1,7 +1,7 @@
 url: $WORKER_HEALTH_URL/default/latency
 status: up
 code: 200
-responseTime: 215
-lastUpdated: 2024-05-17T23:04:15.896Z
+responseTime: 489
+lastUpdated: 2024-05-18T23:03:39.774Z
 startTime: 2024-02-08T09:59:07.433Z
 generator: Upptime <https://github.com/upptime/upptime>
