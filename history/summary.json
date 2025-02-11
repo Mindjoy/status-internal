@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 374,
-    "timeDay": 272,
-    "timeWeek": 348,
-    "timeMonth": 313,
+    "timeDay": 506,
+    "timeWeek": 379,
+    "timeMonth": 320,
     "timeYear": 374,
     "dailyMinutesDown": {
       "2024-06-06": 5,
@@ -32,10 +32,10 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
     "time": 332,
-    "timeDay": 282,
-    "timeWeek": 258,
-    "timeMonth": 272,
-    "timeYear": 332,
+    "timeDay": 342,
+    "timeWeek": 282,
+    "timeMonth": 275,
+    "timeYear": 333,
     "dailyMinutesDown": {
       "2025-01-19": 24,
       "2024-10-29": 9,
@@ -70,16 +70,15 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 342,
-    "timeDay": 370,
-    "timeWeek": 310,
-    "timeMonth": 324,
-    "timeYear": 343,
+    "timeDay": 392,
+    "timeWeek": 324,
+    "timeMonth": 327,
+    "timeYear": 342,
     "dailyMinutesDown": {
       "2024-06-06": 5,
       "2024-05-22": 10,
       "2024-05-21": 6,
-      "2024-03-26": 142,
-      "2024-02-12": 7
+      "2024-03-26": 142
     }
   },
   {
@@ -94,15 +93,14 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 243,
-    "timeDay": 163,
-    "timeWeek": 210,
-    "timeMonth": 193,
+    "timeDay": 188,
+    "timeWeek": 215,
+    "timeMonth": 195,
     "timeYear": 244,
     "dailyMinutesDown": {
       "2024-06-13": 7,
       "2024-06-07": 7,
-      "2024-03-26": 141,
-      "2024-02-12": 7
+      "2024-03-26": 141
     }
   },
   {
@@ -112,13 +110,13 @@
     "slug": "default-queue-status",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.50%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.96%",
-    "time": 205,
-    "timeDay": 233,
-    "timeWeek": 230,
+    "time": 204,
+    "timeDay": 150,
+    "timeWeek": 212,
     "timeMonth": 233,
     "timeYear": 205,
     "dailyMinutesDown": {
@@ -130,8 +128,7 @@
       "2024-09-12": 9,
       "2024-06-11": 7,
       "2024-04-09": 7,
-      "2024-03-26": 141,
-      "2024-02-12": 7
+      "2024-03-26": 141
     }
   },
   {
@@ -141,15 +138,15 @@
     "slug": "default-queue-latency",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "99.50%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.95%",
     "time": 201,
-    "timeDay": 171,
-    "timeWeek": 182,
+    "timeDay": 149,
+    "timeWeek": 180,
     "timeMonth": 193,
-    "timeYear": 202,
+    "timeYear": 201,
     "dailyMinutesDown": {
       "2025-02-09": 7,
       "2025-02-06": 9,
@@ -164,8 +161,7 @@
       "2024-08-24": 8,
       "2024-06-11": 7,
       "2024-06-07": 7,
-      "2024-03-26": 141,
-      "2024-02-12": 7
+      "2024-03-26": 141
     }
   }
 ]
