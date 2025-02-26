@@ -1,7 +1,7 @@
 url: $TEST_API_URL/up
 status: up
 code: 200
-responseTime: 303
-lastUpdated: 2025-02-25T23:04:34.634Z
+responseTime: 188
+lastUpdated: 2025-02-26T23:04:32.987Z
 startTime: 2024-02-08T09:59:04.898Z
 generator: Upptime <https://github.com/upptime/upptime>
