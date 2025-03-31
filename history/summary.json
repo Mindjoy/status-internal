@@ -11,13 +11,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 378,
-    "timeDay": 296,
-    "timeWeek": 398,
-    "timeMonth": 369,
-    "timeYear": 343,
-    "dailyMinutesDown": {
-      "2024-06-06": 5
-    }
+    "timeDay": 323,
+    "timeWeek": 385,
+    "timeMonth": 367,
+    "timeYear": 344,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Staging API",
@@ -25,21 +23,18 @@
     "icon": "https://raw.githubusercontent.com/Mindjoy/status/master/assets/rails-favicon.png",
     "slug": "staging-api",
     "status": "up",
-    "uptime": "99.95%",
+    "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
+    "uptimeYear": "100.00%",
     "time": 326,
-    "timeDay": 342,
-    "timeWeek": 262,
-    "timeMonth": 261,
+    "timeDay": 242,
+    "timeWeek": 259,
+    "timeMonth": 260,
     "timeYear": 277,
     "dailyMinutesDown": {
-      "2025-01-19": 24,
-      "2024-04-02": 9,
-      "2024-04-01": 10,
-      "2024-03-31": 14
+      "2025-01-19": 24
     }
   },
   {
@@ -48,21 +43,17 @@
     "icon": "https://raw.githubusercontent.com/Mindjoy/status/master/assets/sidekiq-favicon.ico",
     "slug": "critical-queue-status",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 344,
-    "timeDay": 430,
-    "timeWeek": 470,
-    "timeMonth": 405,
+    "timeDay": 332,
+    "timeWeek": 447,
+    "timeMonth": 401,
     "timeYear": 340,
-    "dailyMinutesDown": {
-      "2024-06-06": 5,
-      "2024-05-22": 10,
-      "2024-05-21": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Critical Queue Latency",
@@ -76,10 +67,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 242,
-    "timeDay": 230,
-    "timeWeek": 198,
-    "timeMonth": 239,
-    "timeYear": 202,
+    "timeDay": 190,
+    "timeWeek": 197,
+    "timeMonth": 236,
+    "timeYear": 201,
     "dailyMinutesDown": {}
   },
   {
@@ -88,19 +79,17 @@
     "icon": "https://raw.githubusercontent.com/Mindjoy/status/master/assets/sidekiq-favicon.ico",
     "slug": "default-queue-status",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 204,
-    "timeDay": 212,
-    "timeWeek": 216,
-    "timeMonth": 184,
+    "timeDay": 194,
+    "timeWeek": 212,
+    "timeMonth": 185,
     "timeYear": 203,
-    "dailyMinutesDown": {
-      "2024-04-09": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Default Queue Latency",
@@ -114,9 +103,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 200,
-    "timeDay": 205,
-    "timeWeek": 268,
-    "timeMonth": 191,
+    "timeDay": 211,
+    "timeWeek": 259,
+    "timeMonth": 192,
     "timeYear": 198,
     "dailyMinutesDown": {}
   }
