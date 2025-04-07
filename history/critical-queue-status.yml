@@ -1,7 +1,7 @@
 url: $WORKER_HEALTH_URL/critical/status
 status: up
 code: 200
-responseTime: 312
-lastUpdated: 2025-04-06T23:04:07.959Z
+responseTime: 621
+lastUpdated: 2025-04-07T23:04:25.293Z
 startTime: 2024-02-08T09:59:05.656Z
 generator: Upptime <https://github.com/upptime/upptime>
